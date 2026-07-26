@@ -1,0 +1,21 @@
+# Drivio
+
+> Drivio (Drivio Technologies Pvt Ltd) is a tech-enabled, omni-channel two-wheeler financing marketplace in India that connects motorcycle, scooter, and electric-vehicle buyers with banks and NBFCs. Founded in 2022 and backed by 500 Global, it offers EMI calculators, instant eligibility checks, finance offers, vehicle comparison, and same-day loan approval and disbursal. Drivio is an ISO/IEC 27001 certified company. Drivio publishes no public API or developer program; this profile is an API Evangelist network catalog entry.
+
+## About
+- [Drivio Home](https://www.drivio.in/): Consumer two-wheeler financing marketplace and EMI/offers portal.
+- [About Us](https://www.drivio.in/about-us): Company mission, founders (Saurabh Tripathi, Ankur Bhardwaj), and ISO 27001 statement.
+- [Banking Partners](https://www.drivio.in/banking-partners): Lending partners (IDFC First Bank, Bajaj Auto Credit, L&T Financial Services, HDB Financial Services, Moneyplus, Arthmate).
+- [Loans](https://www.drivio.in/loans): Two-wheeler and EV loan options and finance tips.
+- [Application Process](https://www.drivio.in/application): How a customer applies for financing.
+
+## News
+- [Drivio News](https://www.drivio.in/news): Bike, scooter, and EV industry news and reviews.
+
+## Legal
+- [Terms & Conditions](https://www.drivio.in/terms-and-conditions): Site terms of use.
+- [Privacy Policy](https://www.drivio.in/privacy-policy): Data and KYC handling policy.
+
+## Notes
+- No public API, OpenAPI/Swagger, SDKs, MCP server, webhooks, or /.well-known discovery surface were found (all /.well-known/* paths return the site's HTML SPA fallback, not real documents).
+- Customer support: +91 93112 27656 (Mon–Sat, 10:00–18:30 IST).

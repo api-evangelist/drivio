@@ -1,0 +1,16 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.drivio.in/about-us
+notes: >-
+  Drivio publishes no public API, OpenAPI, or developer surface, so no
+  API-level cross-cutting standards (oauth2, oidc, rfc9457, pagination, etc.)
+  can be asserted. The single conformance signal is an organization-level
+  information-security certification claimed on the company website footer and
+  About page.
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: >-
+    "An ISO-27001 certified company" stated in the site footer on the Drivio
+    homepage (https://www.drivio.in/) and About Us page
+    (https://www.drivio.in/about-us).

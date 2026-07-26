@@ -1,8 +1,29 @@
 aid: drivio
 name: Drivio
-description: Drivio is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Drivio (Drivio Technologies Pvt Ltd) is a tech-enabled, omni-channel
+  two-wheeler financing marketplace in India that connects motorcycle, scooter,
+  and electric-vehicle buyers with banks and NBFCs. Founded in 2022 by Saurabh
+  Tripathi and Ankur Bhardwaj and headquartered in the Delhi NCR region
+  (Gurugram / New Delhi), the platform offers EMI calculators, instant
+  eligibility checks, curated finance offers, vehicle comparison, and same-day
+  loan approval and disbursal through lending partners including IDFC First
+  Bank, Bajaj Auto Credit, L&T Financial Services, HDB Financial Services,
+  Moneyplus Financial Services, and Arthmate. Drivio is an ISO/IEC 27001
+  certified company and is backed by 500 Global.
 url: https://raw.githubusercontent.com/api-evangelist/drivio/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.drivio.in/images/logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,18 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Financial Services
+- Lending
+- Fintech
+- Two-Wheeler Financing
+- Loans
+- EMI
+- India
+- Marketplace
+- Electric Vehicles
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://finenyc.com
+  url: https://www.drivio.in/
+- type: About
+  url: https://www.drivio.in/about-us
+- type: Blog
+  url: https://www.drivio.in/news
+- type: TermsOfService
+  url: https://www.drivio.in/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.drivio.in/privacy-policy
+- type: Compliance
+  url: https://www.drivio.in/about-us
+- type: Conformance
+  url: conformance/drivio-conformance.yml
+- type: DomainSecurity
+  url: security/drivio-domain-security.yml
+- type: LLMsTxt
+  url: llms/drivio-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
