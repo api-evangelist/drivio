@@ -46,7 +46,7 @@ created: '2026-07-17'
 modified: '2026-07-18'
 tags:
 - Company
-- Financial-Services
+- Financial Services
 - Lending
 - Fintech
 - Two-Wheeler Financing
@@ -66,6 +66,7 @@ tags_raw:
 - India
 - Marketplace
 - Electric Vehicles
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
